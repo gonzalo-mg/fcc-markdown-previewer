@@ -22,8 +22,6 @@ html, body {
 
 
 header, footer {
-  width: 100vw;
-
   text-align: center;
 
   color: palevioletred;
@@ -53,7 +51,7 @@ main > article {
 }
 
 article > h3 {
-  border: 2.5px solid black;
+  border: 1px solid black;
   background-color: aquamarine;
   text-align: center;
 }
@@ -62,8 +60,6 @@ article > h3 {
  height: 70vh;
 
   overflow: scroll;
-
-  padding: 5px;
 }
 
 @media only screen and (max-width: 600px) {
