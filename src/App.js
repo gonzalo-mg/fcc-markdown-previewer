@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-      <header>GitHub markdown to HTML</header>
+      <header>GFM to HTML</header>
       <main>
         <article>
           <h3>Editor</h3>
