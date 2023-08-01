@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fcc-gfm-to-html/static/css/main.5945edca.css",
-    "main.js": "/fcc-gfm-to-html/static/js/main.a4705c43.js",
-    "static/js/787.9830f409.chunk.js": "/fcc-gfm-to-html/static/js/787.9830f409.chunk.js",
-    "static/media/hexagons.jpg": "/fcc-gfm-to-html/static/media/hexagons.85f1365a9d6bbd496405.jpg",
-    "index.html": "/fcc-gfm-to-html/index.html",
-    "main.5945edca.css.map": "/fcc-gfm-to-html/static/css/main.5945edca.css.map",
-    "main.a4705c43.js.map": "/fcc-gfm-to-html/static/js/main.a4705c43.js.map",
-    "787.9830f409.chunk.js.map": "/fcc-gfm-to-html/static/js/787.9830f409.chunk.js.map"
+    "main.css": "/fcc-markdown-previewer/static/css/main.964225ff.css",
+    "main.js": "/fcc-markdown-previewer/static/js/main.0de648fc.js",
+    "static/js/787.9830f409.chunk.js": "/fcc-markdown-previewer/static/js/787.9830f409.chunk.js",
+    "static/media/hexagons.jpg": "/fcc-markdown-previewer/static/media/hexagons.85f1365a9d6bbd496405.jpg",
+    "index.html": "/fcc-markdown-previewer/index.html",
+    "main.964225ff.css.map": "/fcc-markdown-previewer/static/css/main.964225ff.css.map",
+    "main.0de648fc.js.map": "/fcc-markdown-previewer/static/js/main.0de648fc.js.map",
+    "787.9830f409.chunk.js.map": "/fcc-markdown-previewer/static/js/787.9830f409.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5945edca.css",
-    "static/js/main.a4705c43.js"
+    "static/css/main.964225ff.css",
+    "static/js/main.0de648fc.js"
   ]
 }
