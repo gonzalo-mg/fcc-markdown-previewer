@@ -91,10 +91,6 @@ article > h3 {
     margin: auto;
   }
 
-  #preview, #editor, article > h3{
-    width: 75vw;
-  }
-  
   #preview, #editor {
    height: 50vh;
   
