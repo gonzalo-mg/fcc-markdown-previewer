@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04585062.css",
+    "main.js": "/static/js/main.67ba0887.js",
+    "static/js/787.9830f409.chunk.js": "/static/js/787.9830f409.chunk.js",
+    "static/media/hexagons.jpg": "/static/media/hexagons.85f1365a9d6bbd496405.jpg",
+    "index.html": "/index.html",
+    "main.04585062.css.map": "/static/css/main.04585062.css.map",
+    "main.67ba0887.js.map": "/static/js/main.67ba0887.js.map",
+    "787.9830f409.chunk.js.map": "/static/js/787.9830f409.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04585062.css",
+    "static/js/main.67ba0887.js"
+  ]
+}
